@@ -6,7 +6,7 @@
 
 Challenges are something that I love, so feel free to throw anything at me, and I'll make sure to come up with the best solution for it. I'd be happy to hear from you and if you have any project opportunity, feel free to ping me!
 - 💿 I'm using Figma, Visual Studio Code.
-- 📫 How to reach me ... Please check my website [here](https://dovla.me)
+- 📫 How to reach me ... Please check my website [here](https://dovla.me).
 
 <!---
 D0vl4/D0vl4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
