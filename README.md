@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, my name is Vlado</h1>
 
-- 🖥️ I am a Front-End developer, with a proven skill on how to create usable, modern, clean and unique mobile applications and websites. Very passionate about what I do and I always make sure that my clients, as well as myself, are both happy with the final product.
-- 👀 I’m interested in developing an applications for Android and iOS platforms.
+- 🖥️ I am a UI Designer, with a proven skill on how to create usable, modern, clean and unique mobile applications and websites. Very passionate about what I do and I always make sure that my clients, as well as myself, are both happy with the final product.
+- 👀 Interested in developing an applications for Android and iOS platforms.
 
-      Also UI Designer 📱, pixel artist 🎨, dog lover 🐶, musician 🎵, gym enthusiast 💪 and a passionate gamer 🕹️ !
+      Also hobby Front-End coder 📱, pixel artist 🎨, dog lover 🐶, musician 🎵, gym enthusiast 💪 and a passionate gamer 🕹️ !
 
 Challenges are something that I love, so feel free to throw anything at me, and I'll make sure to come up with the best solution for it. I'd be happy to hear from you and if you have any project opportunity, feel free to ping me!
 
