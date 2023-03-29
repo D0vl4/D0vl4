@@ -5,7 +5,7 @@
 
       Also Front-End coder 📱, pixel artist 🎨, dog lover 🐶, musician 🎵, gym enthusiast 💪 and a passionate gamer 🕹️ !
 
-Challenges are something that I love, so feel free to throw anything at me, and I'll make sure to come up with the best solution for it. I'd be happy to hear from you and if you have any project opportunity, feel free to ping me!
+- Challenges are something that I love, so feel free to throw anything at me, and I'll make sure to come up with the best solution for it. I'd be happy to hear from you and if you have any project opportunity, feel free to ping me!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
