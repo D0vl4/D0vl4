@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, my name is Vlado</h1>
+<h1 align="center">👋🏻 Hi, my name is Vlado</h1>
 
 - ✏️ I am a UI Designer, with a proven skill on how to create usable, modern, clean and unique mobile applications and websites. Very passionate about what I do and I always make sure that my clients, as well as myself, are both happy with the final product.
 - 👀 Interested in developing an applications for Web, Android and iOS platforms.
